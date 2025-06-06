@@ -170,9 +170,12 @@ npx http-server
 
 📎https://drive.google.com/drive/folders/1lIama9-LE2LjxV0q4UBLrOxlFLRH6pgD  
 
+---
+
 ## 📄 Slide Presentasi
 
-📎 https://www.canva.com/design/DAGpiqGVCts/7II1l5vg0TcsayozueOBNw/view?utm_content=DAGpiqGVCts&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h76c6cd0bc6 
+📎 https://www.canva.com/design/DAGpiqGVCts/7II1l5vg0TcsayozueOBNw/view?utm_content=DAGpiqGVCts&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h76c6cd0bc6
+
 ---
 
 
