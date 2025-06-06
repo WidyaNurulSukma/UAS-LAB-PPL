@@ -3,6 +3,10 @@
 Aplikasi ini memungkinkan pengguna untuk memesan lapangan futsal melalui halaman web dan admin untuk mengelola booking melalui dashboard. Booking yang dibuat oleh pengguna disimpan di database SQLite Django, sehingga dapat dikelola langsung oleh admin.
 
 ---
+## 👤👤👤 Anggota Kelompok
+1. Widya Nurul Sukma (2208107010054)
+2. Pryta Rosela (2208107010046)
+3. MIla Lestari (2208107010002)
 
 ## 🚀 Fitur Utama
 
